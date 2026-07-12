@@ -4,7 +4,7 @@ Modelling bistable chemical systems through deterministic and stochastic simulat
 
 University of Newcastle CSC3431 Computational Intelligence coursework.
 
-[📄 View report](./report) [💻 View source](./code)
+[📄 View report](./report/README.md) [💻 View source](./code)
 
 ---
 
