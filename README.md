@@ -1,8 +1,8 @@
 # Chemical Computation Simulation
 
-Deterministic and stochastic modelling of bistable reaction systems through computational simulation and analysis.
+Modelling bistable chemical systems through deterministic and stochastic simulation approaches.
 
-University of Newcastle CSC3431 Biological Computation coursework.
+University of Newcastle CSC3431 Computational Intelligence coursework.
 
 [📄 View report](./report) [💻 View source](./code)
 
@@ -10,9 +10,9 @@ University of Newcastle CSC3431 Biological Computation coursework.
 
 ## Overview
 
-This project explores computational models of chemical reaction systems through the simulation of bistable behaviour.
+This project explores computational models of chemical reaction systems through simulation and analysis.
 
-The system investigates how interacting chemical species can produce stable states and transitions through mathematical modelling and simulation.
+The work investigates how interacting chemical species can produce complex behaviour, including bistability and signal processing capabilities, through mathematical and computational modelling.
 
 ---
 
@@ -20,18 +20,18 @@ The system investigates how interacting chemical species can produce stable stat
 
 The project implements:
 
-- Deterministic reaction modelling
+- Deterministic kinetic modelling
 - Stochastic simulation approaches
-- Analysis of system behaviour
-- Comparison of simulated outcomes
+- Reaction system analysis
+- Computational evaluation of system behaviour
 
-The simulations explore how changes in system parameters influence emergent behaviour.
+The simulations explore how system parameters influence emergent chemical behaviour.
 
 ---
 
 ## Results
 
-The experiments demonstrate how computational models can be used to analyse complex chemical systems, highlighting differences between deterministic and stochastic approaches.
+The experiments demonstrate how computational simulation can be used to analyse complex chemical systems, highlighting differences between deterministic and stochastic approaches.
 
 ---
 
